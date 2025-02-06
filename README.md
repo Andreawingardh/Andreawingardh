@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andreawingardh@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/andrea-wing%C3%A5rdh-188751152/](https://www.linkedin.com/in/andrea-wing%C3%A5rdh-188751152/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/andrea-wing%C3%A5rdh-188751152/)
 
 - ⚡ Fun fact **I play in a samba reggae batteria!**
 
