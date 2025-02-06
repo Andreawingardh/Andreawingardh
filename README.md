@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Händer i helgen](https://github.com/sanlof/helgen)
 
-- 🌱 I’m currently learning **Node.js, Javascript, C#, PHP, HTML, CSS**
+- 🌱 I’m currently learning **Node.js, Javascript, C#, PHP, Laravel**
 
 - 🤝 I’m looking for **An internship opportunity for Dec 2025 - May 2026**
 
