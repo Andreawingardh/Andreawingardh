@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea!</h1>
 <h3 align="center">A web development student at YRGO in Gothenburg</h3>
 
-- 🔭 I’m currently working on [ScrapeGoatenburg](https://github.com/sanlof/scrapegoatenburg)
+- 🔭 I’m currently working on [LIA-verktyg](https://github.com/sanlof/lia-verktyg)
 
 - 🌱 I’m currently learning **Node.js, Javascript, C#, PHP, Laravel**
 
