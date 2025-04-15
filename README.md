@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YRGO-Internify](https://github.com/andreawingardh/YRGO-Internify)
 
-- 🌱 I’m currently learning **Node.js, Javascript, C#, PHP, Laravel**
+- 🌱 I’m currently learning **React, TypeScript, Sanity, Next.js**
 
 - 🤝 I’m looking for **An internship opportunity for Dec 2025 - May 2026**
 
