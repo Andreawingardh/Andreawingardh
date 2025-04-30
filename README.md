@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [YRGO-Internify](https://github.com/andreawingardh/YRGO-Internify)
 
-- 🌱 I’m currently learning **React, TypeScript, Sanity, Next.js**
+- 🌱 I’m currently learning **TypeScript, Sanity, Next.js**
 
-- 🤝 I’m looking for **An internship opportunity for Dec 2025 - May 2026**
+- 🤝 I’m looking for **An internship opportunity for Nov 24th 2025 - May 29th 2026**
 
 - 📫 How to reach me **andreawingardh@gmail.com**
 
