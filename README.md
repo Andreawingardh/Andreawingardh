@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea!</h1>
 <h3 align="center">A web development student at YRGO in Gothenburg</h3>
 
-- 🔭 I’m currently working on [YRGO-Internify](https://github.com/andreawingardh/YRGO-Internify)
+- 🔭 I’m currently working on [WU24-Team-Backend-Tivoli](https://github.com/orgs/WU24-Tivoli-Team-Backend/repositories)
 
 - 🌱 I’m currently learning **TypeScript, Sanity, Next.js**
 
