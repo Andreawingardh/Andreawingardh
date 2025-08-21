@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript, Sanity, Next.js**
 
-- 🤝 I’m looking for **An internship opportunity for Nov 24th 2025 - May 29th 2026**
-
 - 📫 How to reach me **andreawingardh@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/andrea-wing%C3%A5rdh-188751152/)
