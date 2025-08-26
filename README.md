@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [WU24-Team-Backend-Tivoli](https://github.com/orgs/WU24-Tivoli-Team-Backend/repositories)
 
-- 🌱 I’m currently learning **TypeScript, Sanity, Next.js**
+- 🌱 I’m currently learning **OpenSource, Vue.js, design patterns**
 
 - 📫 How to reach me **andreawingardh@gmail.com**
 
