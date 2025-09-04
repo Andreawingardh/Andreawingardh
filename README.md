@@ -18,7 +18,10 @@
 
 <h3 align="left">Technical skills:</h3>
 
-- **Frontend:** HTML, CSS, Javascript, TypeScript, React, Next.js
-- **Backend:** PHP, C#, Node.js, Laravel, WordPress, Sanity
-- **Databases:** SQLite, MySQL, MongoDB, Supabase
+# Technology Stack
+
+- **Frontend:** `HTML`, `CSS`, `Javascript`, `TypeScript`, `React`, `Next.js`
+- **Backend:** `PHP`, `C#`, `Node.js`, `Laravel`, `WordPress`, `Sanity`
+- **Databases:** `SQLite`, `MySQL`, `MongoDB`, `Supabase`
+- **Tools & Services:** `Git/GitHub`, `RESTful APIs`, `Laravel Sanctum`, `JWT`
 
