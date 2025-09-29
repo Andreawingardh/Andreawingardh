@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CardHouse](https://github.com/Andreawingardh/CardHouse/).
 
-- 🌱 I’m currently learning **OpenSource, Vue.js, design patterns**
+- 🌱 I’m currently learning **OpenSource, Vue.js, design patterns, three.js**
 
 - 📫 How to reach me **andreawingardh@gmail.com**
 
