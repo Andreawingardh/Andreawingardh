@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea!</h1>
 <h3 align="center">A web development student at YRGO in Gothenburg</h3>
 
-- 🔭 I’m currently working on contributing to [Cuttle](https://github.com/appelqvistelias/cuttle).
+- 🔭 I’m currently working on [Ateljé](https://github.com/Andreawingardh/atelje)).
 
 - 🌱 I’m currently learning **OpenSource, Vue.js, design patterns, three.js**
 
