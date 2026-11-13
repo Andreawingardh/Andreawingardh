@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea!</h1>
-<h3 align="center">A web development student at YRGO in Gothenburg</h3>
+<h3 align="center">An aspiring web developer in Gothenburg</h3>
 
-- 🔭 I’m currently working on [Ateljé](https://github.com/Andreawingardh/atelje).
-
-- 🌱 I’m currently learning **OpenSource, Vue.js, design patterns, three.js**
+- 🔭 My most recent project is [Ateljé](https://github.com/Andreawingardh/atelje).
 
 - 📫 How to reach me **andreawingardh@gmail.com**
 
